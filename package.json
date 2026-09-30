@@ -3,5 +3,5 @@
   "version": "2.0.0",
   "private": true,
   "scripts": {"dev": "vercel dev"},
-  "dependencies": {"@supabase/supabase-js": "^2.57.0"}
+  "engines": {"node": ">=18"}
 }
