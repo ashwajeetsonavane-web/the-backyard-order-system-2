@@ -56,8 +56,7 @@ async function notifyWhatsApp(o) {
     .map(i => `• ${i.name} × ${i.qty} = ₹${i.price * i.qty}`)
     .join('\n');
 
-  const text =
-`🔔 NEW ORDER ${o.order_id}
+  const text = `🔔 NEW ORDER ${o.order_id}
 
 ${o.customer_name} | ${o.customer_phone}
 
@@ -80,24 +79,16 @@ Location: ${o.customer_location}${o.note ? `\nNote: ${o.note}` : ''}`;
           messaging_product: 'whatsapp',
           to,
           type: 'text',
-          text: {
-            body: text
-          }
+          text: { body: text }
         })
       }
     );
 
     if (!response.ok) {
-      console.error(
-        'WhatsApp error:',
-        await response.text()
-      );
+      console.error('WhatsApp error:', await response.text());
     }
   } catch (e) {
-    console.error(
-      'WhatsApp notification failed:',
-      e
-    );
+    console.error('WhatsApp notification failed:', e);
   }
 }
 
