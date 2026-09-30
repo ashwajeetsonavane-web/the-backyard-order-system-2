@@ -2,6 +2,13 @@
   "name": "the-backyard-order-system-vercel",
   "version": "2.0.0",
   "private": true,
-  "scripts": {"dev": "vercel dev"},
-  "engines": {"node": ">=18"}
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4"
+  }
 }
