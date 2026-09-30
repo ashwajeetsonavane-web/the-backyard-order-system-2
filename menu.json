@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Aloo Tikki Smash",
+    "price": 89,
+    "desc": "Crispy smashed aloo tikki, fresh veggies and signature sauce in a soft toasted bun.",
+    "kind": "veg",
+    "category": "Burgers"
+  },
+  {
+    "name": "Paneer Power",
+    "price": 99,
+    "desc": "Grilled paneer patty, fresh veggies and signature sauce in a soft toasted bun.",
+    "kind": "veg",
+    "category": "Burgers"
+  },
+  {
+    "name": "Falafel Crunch",
+    "price": 109,
+    "desc": "Crispy falafel patty with fresh veggies, creamy sauce, and falafel vibe.",
+    "kind": "veg",
+    "category": "Burgers"
+  },
+  {
+    "name": "Mexican Zing",
+    "price": 119,
+    "desc": "Zesty, spicy and full of flavour—loaded with salsa, chipotle sauce, cheese and jalapeños.",
+    "kind": "veg",
+    "category": "Burgers"
+  },
+  {
+    "name": "Mini Chicken Burger",
+    "price": 99,
+    "desc": "Juicy chicken patty, fresh cucumber, onion and our signature sauce.",
+    "kind": "nonveg",
+    "category": "Burgers"
+  },
+  {
+    "name": "Jumbo Ch. Burger",
+    "price": 149,
+    "desc": "Juicy jumbo chicken patty, fresh cucumber, onion and our signature sauce.",
+    "kind": "nonveg",
+    "category": "Burgers"
+  },
+  {
+    "name": "Salted Fries",
+    "price": 79,
+    "desc": "Crispy golden fries lightly seasoned with salt.",
+    "kind": "veg",
+    "category": "Fries"
+  },
+  {
+    "name": "Perry Perry Fries",
+    "price": 89,
+    "desc": "Crispy golden fries tossed in spicy peri peri seasoning.",
+    "kind": "veg",
+    "category": "Fries"
+  },
+  {
+    "name": "Cheese Loaded Fries",
+    "price": 109,
+    "desc": "Hot, crunchy fries layered with luscious melted cheese and bold creamy flavors.",
+    "kind": "veg",
+    "category": "Fries"
+  },
+  {
+    "name": "Fiery Peri Peri Cheese",
+    "price": 119,
+    "desc": "Bold peri peri heat meets rich, melty cheese over a bed of crispy golden fries.",
+    "kind": "veg",
+    "category": "Fries"
+  },
+  {
+    "name": "Garden Crunch",
+    "price": 89,
+    "desc": "A delicious mix of garden-fresh veggies, cheese, and creamy spread in toasted bread.",
+    "kind": "veg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Corn & Cheese Fusion",
+    "price": 109,
+    "desc": "Sweet corn blended with creamy cheese, layered in toasted bread with a comforting bite.",
+    "kind": "veg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Paneer Heatwich",
+    "price": 129,
+    "desc": "Juicy paneer tikka layered with fresh vegetables and creamy sauce for a fiery grilled bite.",
+    "kind": "veg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Garlic Mushroom",
+    "price": 109,
+    "desc": "Buttery garlic mushrooms paired with melted cheese, grilled to perfection.",
+    "kind": "veg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Chipotle Fiesta",
+    "price": 119,
+    "desc": "Fresh veggies, melted cheese and smoky chipotle mayo grilled to perfection.",
+    "kind": "veg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Loaded Chickwich",
+    "price": 109,
+    "desc": "Crispy chicken loaded with fresh veggies, creamy mayo and melted cheese.",
+    "kind": "nonveg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Butter Chicken",
+    "price": 119,
+    "desc": "Crispy chicken loaded with fresh veggies, creamy mayo and melted cheese.",
+    "kind": "nonveg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Creamy Garlic",
+    "price": 129,
+    "desc": "Tender chicken in creamy garlic sauce with melted cheese on toasted bread.",
+    "kind": "nonveg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Cheesy Jalapeño",
+    "price": 139,
+    "desc": "Crispy toasted sandwich loaded with creamy melted cheese and spicy jalapeños.",
+    "kind": "nonveg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Chicken Club",
+    "price": 149,
+    "desc": "A classic triple-layer sandwich with juicy chicken, crisp lettuce, tomato and sauce.",
+    "kind": "nonveg",
+    "category": "Sandwiches"
+  },
+  {
+    "name": "Classic Margherita",
+    "price": 129,
+    "desc": "Fresh tomato sauce, mozzarella cheese, and herbs on a perfectly baked crust.",
+    "kind": "veg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Tandoori Paneer",
+    "price": 229,
+    "desc": "Spicy tandoori paneer, fresh onions & capsicum, and melted mozzarella.",
+    "kind": "veg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Mushroom Pepper",
+    "price": 249,
+    "desc": "Juicy mushrooms, peppers topped with extra double cheese.",
+    "kind": "veg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Farmhouse Feast",
+    "price": 259,
+    "desc": "Loaded with fresh onions, capsicum, sweet corn, tomatoes, and melted mozzarella.",
+    "kind": "veg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Loaded Panner Melt",
+    "price": 319,
+    "desc": "Paneer-loaded pizza with a cheese burst center—rich, gooey and full of cheesy goodness.",
+    "kind": "veg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Smokin' Tikka",
+    "price": 229,
+    "desc": "Smoky, spice-marinated chicken tikka with fresh onions, capsicum, and mozzarella.",
+    "kind": "nonveg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Backyard BBQ",
+    "price": 249,
+    "desc": "Tender BBQ chicken with smoky BBQ sauce, topped with onions and mozzarella.",
+    "kind": "nonveg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Indie Minced Mint",
+    "price": 259,
+    "desc": "Spiced chicken keema topped with refreshing mint mayo on a cheesy pizza base.",
+    "kind": "nonveg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Chicken Supreme",
+    "price": 279,
+    "desc": "All chicken, no distractions—spicy, cheesy, and packed with flavor.",
+    "kind": "nonveg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Half & Half Pizza",
+    "price": 319,
+    "desc": "Half smoky tikka, half refreshing mint—one pizza, two bold flavors.",
+    "kind": "nonveg",
+    "category": "Pizza"
+  },
+  {
+    "name": "Cheese Slice Add-on",
+    "price": 15,
+    "desc": "Add an extra cheese slice.",
+    "kind": "veg",
+    "category": "Add-ons"
+  },
+  {
+    "name": "Espresso",
+    "price": 69,
+    "desc": "Rich espresso shot.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Americano",
+    "price": 79,
+    "desc": "Espresso with hot water.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Iced Americano",
+    "price": 89,
+    "desc": "Chilled espresso over ice.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Hot Chocolate",
+    "price": 89,
+    "desc": "Rich hot chocolate.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Café Latte",
+    "price": 89,
+    "desc": "Smooth espresso with steamed milk.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Cappuccino",
+    "price": 89,
+    "desc": "Espresso with creamy milk foam.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Iced Latte",
+    "price": 99,
+    "desc": "Chilled espresso with milk over ice.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Flavoured Cappuccino",
+    "price": 119,
+    "desc": "Creamy flavoured cappuccino.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Flavoured Iced Latte",
+    "price": 119,
+    "desc": "Chilled flavoured latte.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Spanish Latte",
+    "price": 139,
+    "desc": "Sweet, creamy Spanish-style latte.",
+    "kind": "veg",
+    "category": "Hot & Cold"
+  },
+  {
+    "name": "Chocolate Éclair",
+    "price": 129,
+    "desc": "Rich chocolate shake.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Butterscotch Crunch",
+    "price": 129,
+    "desc": "Butterscotch shake with crunchy notes.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Strawberry Banana",
+    "price": 129,
+    "desc": "Creamy strawberry and banana shake.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Belgian Chocolate",
+    "price": 129,
+    "desc": "Rich Belgian chocolate shake.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Nutty Mocha",
+    "price": 139,
+    "desc": "Coffee-chocolate shake with nutty flavour.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Banana Caramel",
+    "price": 139,
+    "desc": "Banana shake with caramel flavour.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Caramel Brownie",
+    "price": 149,
+    "desc": "Caramel brownie shake.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "blueberry Crush",
+    "price": 149,
+    "desc": "Creamy blueberry crush.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Cold Coffee",
+    "price": 39,
+    "desc": "Classic chilled cold coffee.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Thick Cold Coffee",
+    "price": 49,
+    "desc": "Thick, creamy cold coffee.",
+    "kind": "veg",
+    "category": "Shakes"
+  },
+  {
+    "name": "Café Frappe",
+    "price": 109,
+    "desc": "Creamy blended coffee frappe.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Caramel Frappe",
+    "price": 119,
+    "desc": "Blended coffee frappe with caramel.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Tiramisu Cream",
+    "price": 119,
+    "desc": "Tiramisu-inspired creamy frappe.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Irish Mist",
+    "price": 129,
+    "desc": "Creamy Irish-inspired frappe.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Hazelnut Chocolate",
+    "price": 129,
+    "desc": "Hazelnut chocolate frappe.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Java chips",
+    "price": 139,
+    "desc": "Coffee frappe with chocolate chips.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Cookie Crumble",
+    "price": 139,
+    "desc": "Creamy frappe with cookie crumble.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "American Bourbon",
+    "price": 139,
+    "desc": "Bold coffee frappe.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Berry Bubble Blue",
+    "price": 149,
+    "desc": "Berry-forward blue frappe.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Double Chocolate",
+    "price": 149,
+    "desc": "Extra chocolate frappe.",
+    "kind": "veg",
+    "category": "Frappes"
+  },
+  {
+    "name": "Virgin Mojito",
+    "price": 99,
+    "desc": "Refreshing mint and lime cooler.",
+    "kind": "veg",
+    "category": "Mocktails"
+  },
+  {
+    "name": "Blue Lagoon",
+    "price": 99,
+    "desc": "Bright citrus-blue mocktail.",
+    "kind": "veg",
+    "category": "Mocktails"
+  },
+  {
+    "name": "Green Apple",
+    "price": 99,
+    "desc": "Crisp green apple cooler.",
+    "kind": "veg",
+    "category": "Mocktails"
+  },
+  {
+    "name": "Watermelon Mint",
+    "price": 99,
+    "desc": "Watermelon and mint cooler.",
+    "kind": "veg",
+    "category": "Mocktails"
+  },
+  {
+    "name": "Strawberry Splash",
+    "price": 99,
+    "desc": "Strawberry-forward refreshing mocktail.",
+    "kind": "veg",
+    "category": "Mocktails"
+  },
+  {
+    "name": "Bubblegum Fizz",
+    "price": 99,
+    "desc": "Sweet fizzy bubblegum cooler.",
+    "kind": "veg",
+    "category": "Mocktails"
+  },
+  {
+    "name": "Kala Khatta",
+    "price": 99,
+    "desc": "Tangy Indian-style kala khatta cooler.",
+    "kind": "veg",
+    "category": "Mocktails"
+  }
+]
